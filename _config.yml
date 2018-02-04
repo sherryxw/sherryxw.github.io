@@ -110,7 +110,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  Lab              : "http://www.labhealthinfo.uconn.edu/"
+  X Machine Learning(XML) Group : "https://xmachinelearning.github.io/"
 
 # Reading Files
 include:
