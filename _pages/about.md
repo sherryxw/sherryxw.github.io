@@ -15,7 +15,6 @@ My primary research interests are in deep learning, machine learning and pattern
 Experience
 ------
 
-
 **Research Assistant | University of Connecticut**
 
 * Designed deep learning, machine learning methods to improve diseases detection, drug discovery & precision medicine. 
@@ -54,7 +53,19 @@ Experience
 
 * Collaborated cross team to design and simulate effective congestion control and scheduling algorithms.
 
+Publications
+------
+2018
+Jin Lu, Chao Shang, et al. ?Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning?, UBICOMP 2018.
 
+Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi, "VIGAN: Missing View Imputation with Generative Adversarial Networks", IEEE Big Data 2017 (acceptance rate of 18%).
+
+Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang. Fusing Location Data for Depression Prediction. Ubiquitous Intelligence & Computing (UIC), IEEE, 2017.
+
+Chao Shang, Anand Panangadan, and Victor K. Prasanna. Event Extraction from Unstructured Text Data. International Conference on Database and Expert Systems Applications (DEXA), 2015.
+
+Xie, Dongliang, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang. A carrier class IoT service architecture integrating IMS with SWE. International Journal of Distributed Sensor Networks, 2014.
+		
 
 X Machine Learning(XML) Group
 ------
