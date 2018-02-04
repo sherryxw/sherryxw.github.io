@@ -66,7 +66,7 @@ International Journal of Distributed Sensor Networks, 2014
 X Machine Learning(XML) Group
 ------
 
-[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focus on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics.
+[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics.
 
 
 Contact
