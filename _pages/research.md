@@ -42,6 +42,7 @@ EHRs, Medical Image (MRI), Clinical Data, Genetic Data, Smartphone, Fitbit etc.
 *Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning.
 
 #### 3) Contextual Embedding of Medical Concepts from patient EHRs 
+
 *Construct contextual embedding of medical concepts from patient EHRs with Word2vec technique.
 
 *Investigate multi-sense mechanism to allow same medical concept with different context during the course of disease progression. 
