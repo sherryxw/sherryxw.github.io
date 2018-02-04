@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research"
-    url: /research/    
+    url: /research/  
+  
+  - title: "Publications"
+    url: /publications/  
 
   - title: "Blog"
     url: https://xmachinelearning.github.io/ 
@@ -12,7 +12,7 @@ main:
   - title: "CV"
     url: /cv/
 
-    - title: "Personal"
+  - title: "Personal"
   url: http://chaoshang.weebly.com/personal.html
     
   #- title: "Guide"
