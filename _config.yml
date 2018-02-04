@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Chao Shang"
-  avatar           : "profile.png"
+  avatar           : "my.png"
   bio              : "Ph.D. student at University of Connecticut, expert in Machine Learning"
   location         : "Connecticut"
   employer         :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chao-shang-5039058a/"
+  linkedin         : "https://www.linkedin.com/in/chao-shang-5039058a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
