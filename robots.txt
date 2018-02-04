@@ -7,3 +7,4 @@ User-agent: *
 Allow: /
 
 Sitemap: http://chaoshangcs.com/sitemap.xml
+Sitemap: http://chaoshangcs.github.io/sitemap.xml
