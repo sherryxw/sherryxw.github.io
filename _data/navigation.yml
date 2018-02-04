@@ -13,7 +13,7 @@ main:
     url: /cv/
 
   - title: "Personal"
-  url: http://chaoshang.weebly.com/personal.html
+    url: http://chaoshang.weebly.com/personal.html
     
   #- title: "Guide"
   #  url: /markdown/
