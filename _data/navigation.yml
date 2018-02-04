@@ -9,8 +9,8 @@ main:
   - title: "Blog"
     url: https://xmachinelearning.github.io
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
 
   - title: "Personal"
     url: http://chaoshang.weebly.com/personal.html
