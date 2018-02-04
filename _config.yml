@@ -85,7 +85,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=u_g_wSoAAAAJ&hl=en"
   email            : "shangchaocs@gmail.com"
-  uri              :
+  lab              : "http://www.labhealthinfo.uconn.edu/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -110,8 +110,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Lab              : "http://www.labhealthinfo.uconn.edu/"
-  X Machine Learning(XML) Group : "https://xmachinelearning.github.io/"
+  #Lab              : "http://www.labhealthinfo.uconn.edu/"
+  #X Machine Learning(XML) Group : "https://xmachinelearning.github.io/"
 
 # Reading Files
 include:
