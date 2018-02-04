@@ -15,7 +15,7 @@ My primary research interests are in deep learning, machine learning and pattern
 Experience
 ------
 
-## Research Assistant | University of Connecticut
+### Research Assistant | University of Connecticut
 
 - Designed deep learning, machine learning methods to improve diseases detection, drug discovery & precision medicine. 
 
@@ -27,7 +27,7 @@ Experience
 
 - Constructed the deep neural networks on graphs for node embedding and graph embedding.
 
-## Co-Investigator | Yale Center for Molecular Discovery, Yale University
+### Co-Investigator | Yale Center for Molecular Discovery, Yale University
 
 - Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
 
@@ -35,19 +35,19 @@ Experience
 
 - Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
 
-## Student Researcher | University of Southern California**
+### Student Researcher | University of Southern California
 
 - Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
 
 - Implemented script codes to extract the patterns, relevant terms and its associated parameters for Chevron Corporation.
 
-## Visiting Researcher | Institute of Automation, Chinese Academy of Sciences**
+### Visiting Researcher | Institute of Automation, Chinese Academy of Sciences
 
 - Built a high-performance computing platform on GPUs to accelerate deep learning research.
 
 - Constructed deep learning models to extract image features via open source deep learning framework Caffe.
 
-## Research Assistant | Beijing University of Posts and Telecommunications**
+### Research Assistant | Beijing University of Posts and Telecommunications
 
 - Analyzed the limitations of Wireless Sensor Network (WSN), Information Centric Networking (ICN), etc. 
 
@@ -57,15 +57,25 @@ Experience
 Publications
 ------
 
-Jin Lu, Chao Shang, et al. Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning?, UBICOMP 2018.
+__Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning__
+Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi
+ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 (ACM Journal of IMWUT)
 
-Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi, "VIGAN: Missing View Imputation with Generative Adversarial Networks", IEEE Big Data 2017 (acceptance rate of 18%).
+__VIGAN: Missing View Imputation with Generative Adversarial Networks__
+Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi
+IEEE Big Data, 2017 (acceptance rate of 18%)
 
-Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang. Fusing Location Data for Depression Prediction. Ubiquitous Intelligence & Computing (UIC), IEEE, 2017.
+__Fusing Location Data for Depression Prediction __
+Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang
+IEEE Ubiquitous Intelligence & Computing (UIC), 2017
 
-Chao Shang, Anand Panangadan, and Victor K. Prasanna. Event Extraction from Unstructured Text Data. International Conference on Database and Expert Systems Applications (DEXA), 2015.
+__Event Extraction from Unstructured Text Data__
+Chao Shang, Anand Panangadan, and Victor K. Prasanna
+International Conference on Database and Expert Systems Applications (DEXA), 2015
 
-Xie, Dongliang, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang. A carrier class IoT service architecture integrating IMS with SWE. International Journal of Distributed Sensor Networks, 2014.
+__A carrier class IoT service architecture integrating IMS with SWE__
+Xie, Dongliang, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang
+International Journal of Distributed Sensor Networks, 2014
 		
 
 X Machine Learning(XML) Group
