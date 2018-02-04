@@ -61,20 +61,20 @@ __Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Mul
 Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi  
 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 (ACM Journal of IMWUT)
 
-__VIGAN: Missing View Imputation with Generative Adversarial Networks__  
+__[VIGAN: Missing View Imputation with Generative Adversarial Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8257992)__  
 Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi  
 IEEE Big Data, 2017 (acceptance rate of 18%)
 
-__Fusing Location Data for Depression Prediction__  
+__[Fusing Location Data for Depression Prediction](https://pdfs.semanticscholar.org/5023/8495b1a704c7c908155dbf66cbe6e5daca8f.pdf)__  
 Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang  
 IEEE Ubiquitous Intelligence & Computing (UIC), 2017
 
-__Event Extraction from Unstructured Text Data__  
+__[Event Extraction from Unstructured Text Data](https://link.springer.com/chapter/10.1007/978-3-319-22849-5_38)__  
 Chao Shang, Anand Panangadan, and Victor K. Prasanna  
 International Conference on Database and Expert Systems Applications (DEXA), 2015
 
-__A carrier class IoT service architecture integrating IMS with SWE__  
-Xie, Dongliang, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang  
+__[A carrier class IoT service architecture integrating IMS with SWE](http://journals.sagepub.com/doi/full/10.1155/2014/930472)__  
+Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang  
 International Journal of Distributed Sensor Networks, 2014
 		
 
