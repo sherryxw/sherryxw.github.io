@@ -15,48 +15,49 @@ My primary research interests are in deep learning, machine learning and pattern
 Experience
 ------
 
-**Research Assistant | University of Connecticut**
+## Research Assistant | University of Connecticut
 
-* Designed deep learning, machine learning methods to improve diseases detection, drug discovery & precision medicine. 
+- Designed deep learning, machine learning methods to improve diseases detection, drug discovery & precision medicine. 
 
-* Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
+- Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
 
-* Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
+- Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
 
-* Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
+- Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
 
-* Constructed the deep neural networks on graphs for node embedding and graph embedding.
+- Constructed the deep neural networks on graphs for node embedding and graph embedding.
 
-**Co-Researcher | Yale Center for Molecular Discovery, Yale University**
+## Co-Investigator | Yale Center for Molecular Discovery, Yale University
 
-* Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
+- Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
 
-* Extended Recurrent Neural Networks and Autoencoder models for SMILES strings - text sequences, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
+- Extended Recurrent Neural Networks and Autoencoder models for SMILES strings - text sequences, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
-* Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
+- Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
 
-**Student Researcher | University of Southern California**
+## Student Researcher | University of Southern California**
 
-* Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
+- Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
 
-* Implemented script codes to extract the patterns, relevant terms and its associated parameters for Chevron Corporation.
+- Implemented script codes to extract the patterns, relevant terms and its associated parameters for Chevron Corporation.
 
-**Visiting Researcher | Institute of Automation, Chinese Academy of Sciences**
+## Visiting Researcher | Institute of Automation, Chinese Academy of Sciences**
 
-* Built a high-performance computing platform on GPUs to accelerate deep learning research.
+- Built a high-performance computing platform on GPUs to accelerate deep learning research.
 
-* Constructed deep learning models to extract image features via open source deep learning framework Caffe.
+- Constructed deep learning models to extract image features via open source deep learning framework Caffe.
 
-**Research Assistant | Beijing University of Posts and Telecommunications**
+## Research Assistant | Beijing University of Posts and Telecommunications**
 
-* Analyzed the limitations of Wireless Sensor Network (WSN), Information Centric Networking (ICN), etc. 
+- Analyzed the limitations of Wireless Sensor Network (WSN), Information Centric Networking (ICN), etc. 
 
-* Collaborated cross team to design and simulate effective congestion control and scheduling algorithms.
+- Collaborated cross team to design and simulate effective congestion control and scheduling algorithms.
+
 
 Publications
 ------
-2018
-Jin Lu, Chao Shang, et al. ?Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning?, UBICOMP 2018.
+
+Jin Lu, Chao Shang, et al. Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning?, UBICOMP 2018.
 
 Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi, "VIGAN: Missing View Imputation with Generative Adversarial Networks", IEEE Big Data 2017 (acceptance rate of 18%).
 
