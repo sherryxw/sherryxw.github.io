@@ -18,38 +18,45 @@ Research http://www.labhealthinfo.uconn.edu/research/
 Experience
 ------
 
-Research Assistant | University of Connecticut 
+**Research Assistant | University of Connecticut**
 
-?	Designed deep learning, machine learning methods to improve diseases detection, drug discovery & precision medicine. 
-?	Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
-?	Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
-?	Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
-?	Constructed the deep neural networks on graphs for node embedding and graph embedding.
+* Designed deep learning, machine learning methods to improve diseases detection, drug discovery & precision medicine. 
 
-Co-Researcher | Yale Center for Molecular Discovery, Yale University
+* Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
 
-?	Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
-?	Extended Recurrent Neural Networks and Autoencoder models for SMILES strings - text sequences, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
-?	Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
+* Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
 
-Student Researcher | University of Southern California
+* Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
 
-?	Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
-?	Implemented script codes to extract the patterns, relevant terms and its associated parameters for Chevron Corporation.
+* Constructed the deep neural networks on graphs for node embedding and graph embedding.
 
-Visiting Researcher | Institute of Automation, Chinese Academy of Sciences
+**Co-Researcher | Yale Center for Molecular Discovery, Yale University**
 
-?	Built a high-performance computing platform on GPUs to accelerate deep learning research.
-?	Constructed deep learning models to extract image features via open source deep learning framework Caffe.
+* Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
 
-Research Assistant | Beijing University of Posts and Telecommunications
+* Extended Recurrent Neural Networks and Autoencoder models for SMILES strings - text sequences, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
-?	Analyzed the limitations of Wireless Sensor Network (WSN), Information Centric Networking (ICN), etc. 
-?	Collaborated cross team to design and simulate effective congestion control and scheduling algorithms.
+* Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
+
+**Student Researcher | University of Southern California**
+
+* Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
+
+* Implemented script codes to extract the patterns, relevant terms and its associated parameters for Chevron Corporation.
+
+**Visiting Researcher | Institute of Automation, Chinese Academy of Sciences**
+
+* Built a high-performance computing platform on GPUs to accelerate deep learning research.
+
+* Constructed deep learning models to extract image features via open source deep learning framework Caffe.
+
+**Research Assistant | Beijing University of Posts and Telecommunications**
+
+* Analyzed the limitations of Wireless Sensor Network (WSN), Information Centric Networking (ICN), etc. 
+
+* Collaborated cross team to design and simulate effective congestion control and scheduling algorithms.
 
 
-
-#Honors and Awards
 
 X Machine Learning(XML) Group
 ------
@@ -59,5 +66,6 @@ X Machine Learning(XML) Group
 Contact
 ------
 Email: chao.shang AT uconn.edu
+
 Address: 371 Fairfield Way, Unit 4155, Storrs, Conntecticut 06269
 
