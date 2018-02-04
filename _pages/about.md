@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Home"
-excerpt: "About me"
+title: ""
+#excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,16 +12,10 @@ I am a Ph.D. student in the Computer Science and Engineering Department, Univers
 
 My primary research interests are in deep learning, machine learning and pattern recognition using large-scale datasets, with an emphasis on healthcare informatics, online social networks and bioinformatics. 
 
-------
-X Machine Learning(XML) Group
-======
-The X Machine Learning (XML) group develops machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics.
-
-[Meetup](https://xmachinelearning.github.io/meetup/).
 
 
-Contact
-------
-chao.shang AT uconn.edu
+#X Machine Learning(XML) Group
+#------
 
-371 Fairfield Way, Unit 4155, Storrs, CT 06269​
+#[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) develops machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics.
+
