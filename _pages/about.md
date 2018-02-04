@@ -18,43 +18,44 @@ Research http://www.labhealthinfo.uconn.edu/research/
 Experience
 ------
 
-**Research Assistant | University of Connecticut**
 
-* Designed deep learning, machine learning methods to improve diseases detection, drug discovery & precision medicine. 
+#**Research Assistant | University of Connecticut**
 
-* Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
+#* Designed deep learning, machine learning methods to improve diseases detection, drug discovery & precision medicine. 
 
-* Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
+#* Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
 
-* Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
+#* Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
 
-* Constructed the deep neural networks on graphs for node embedding and graph embedding.
+#* Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
 
-**Co-Researcher | Yale Center for Molecular Discovery, Yale University**
+#* Constructed the deep neural networks on graphs for node embedding and graph embedding.
 
-* Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
+#**Co-Researcher | Yale Center for Molecular Discovery, Yale University**
 
-* Extended Recurrent Neural Networks and Autoencoder models for SMILES strings - text sequences, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
+#* Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
 
-* Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
+#* Extended Recurrent Neural Networks and Autoencoder models for SMILES strings - text sequences, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
-**Student Researcher | University of Southern California**
+#* Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
 
-* Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
+#**Student Researcher | University of Southern California**
 
-* Implemented script codes to extract the patterns, relevant terms and its associated parameters for Chevron Corporation.
+#* Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
 
-**Visiting Researcher | Institute of Automation, Chinese Academy of Sciences**
+#* Implemented script codes to extract the patterns, relevant terms and its associated parameters for Chevron Corporation.
 
-* Built a high-performance computing platform on GPUs to accelerate deep learning research.
+#**Visiting Researcher | Institute of Automation, Chinese Academy of Sciences**
 
-* Constructed deep learning models to extract image features via open source deep learning framework Caffe.
+#* Built a high-performance computing platform on GPUs to accelerate deep learning research.
 
-**Research Assistant | Beijing University of Posts and Telecommunications**
+#* Constructed deep learning models to extract image features via open source deep learning framework Caffe.
 
-* Analyzed the limitations of Wireless Sensor Network (WSN), Information Centric Networking (ICN), etc. 
+#**Research Assistant | Beijing University of Posts and Telecommunications**
 
-* Collaborated cross team to design and simulate effective congestion control and scheduling algorithms.
+#* Analyzed the limitations of Wireless Sensor Network (WSN), Information Centric Networking (ICN), etc. 
+
+#* Collaborated cross team to design and simulate effective congestion control and scheduling algorithms.
 
 
 
@@ -63,8 +64,10 @@ X Machine Learning(XML) Group
 
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focus on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics.
 
+
 Contact
 ------
+
 Email: chao.shang AT uconn.edu
 
 Address: 371 Fairfield Way, Unit 4155, Storrs, Conntecticut 06269
