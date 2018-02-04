@@ -6,6 +6,9 @@ main:
   #- title: "Publications"
   #  url: /publications/  
 
+  - title: "Lab"
+    url: http://www.labhealthinfo.uconn.edu/
+
   - title: "Blog"
     url: https://xmachinelearning.github.io
     

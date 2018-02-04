@@ -12,9 +12,6 @@ I am a Ph.D. student in the Computer Science and Engineering Department, Univers
 
 My primary research interests are in deep learning, machine learning and pattern recognition using large-scale datasets, with an emphasis on healthcare informatics, online social networks and bioinformatics. 
 
-[Laboratory of Machine Learning & Health Informatics](http://www.labhealthinfo.uconn.edu/)
-Research http://www.labhealthinfo.uconn.edu/research/
-
 Experience
 ------
 
