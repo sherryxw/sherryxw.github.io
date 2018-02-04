@@ -14,8 +14,8 @@ My primary research interests are in deep learning, machine learning and pattern
 
 
 
-#X Machine Learning(XML) Group
-#------
+X Machine Learning(XML) Group
+------
 
-#[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) develops machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics.
+[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) develops machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics.
 
