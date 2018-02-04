@@ -57,24 +57,24 @@ Experience
 Publications
 ------
 
-__Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning__
-Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi
+__Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning__  
+Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi  
 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 (ACM Journal of IMWUT)
 
-__VIGAN: Missing View Imputation with Generative Adversarial Networks__
-Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi
+__VIGAN: Missing View Imputation with Generative Adversarial Networks__  
+Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi  
 IEEE Big Data, 2017 (acceptance rate of 18%)
 
-__Fusing Location Data for Depression Prediction __
-Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang
+__Fusing Location Data for Depression Prediction__  
+Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang  
 IEEE Ubiquitous Intelligence & Computing (UIC), 2017
 
-__Event Extraction from Unstructured Text Data__
-Chao Shang, Anand Panangadan, and Victor K. Prasanna
+__Event Extraction from Unstructured Text Data__  
+Chao Shang, Anand Panangadan, and Victor K. Prasanna  
 International Conference on Database and Expert Systems Applications (DEXA), 2015
 
-__A carrier class IoT service architecture integrating IMS with SWE__
-Xie, Dongliang, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang
+__A carrier class IoT service architecture integrating IMS with SWE__  
+Xie, Dongliang, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang  
 International Journal of Distributed Sensor Networks, 2014
 		
 
@@ -87,7 +87,6 @@ X Machine Learning(XML) Group
 Contact
 ------
 
-Email: chao.shang AT uconn.edu
-
+Email: chao.shang AT uconn.edu  
 Address: 371 Fairfield Way, Unit 4155, Storrs, Conntecticut 06269
 
