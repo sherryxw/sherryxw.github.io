@@ -11,9 +11,9 @@ title                    : "Xue Wu (Sherry)"
 title_separator          : "-"
 name                     : &name "Xue Wu (Sherry)"
 description              : &description "Financial Analyst "
-url                      : https://xuewusherry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sherryxw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuewusherry.github.io"
+repository               : "sherryxw.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Xue Wu (Sherry)"
   avatar           : "my.jpg"
-  bio              : "Ph.D. student at University of Connecticut, expert in Machine Learning"
+  bio              : "Financial Analyst"
   location         : "Connecticut"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=u_g_wSoAAAAJ&hl=en"
-  email            : "shangchaocs@gmail.com"
+  googlescholar    : 
+  email            : "xue.wu.sherry@gmail.com"
   url              : 
   bitbucket        :
   codepen          :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chaoshangcs"
+  github           : "sherryxw"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "chao-shang-5039058a"
+  linkedin         : "xue-sherry-wu-8a071729"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -110,7 +110,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Lab              : "http://www.labhealthinfo.uconn.edu/"
   #X Machine Learning(XML) Group : "https://xmachinelearning.github.io/"
 
 # Reading Files
