@@ -10,6 +10,21 @@ redirect_from:
 
 I have completed my Master’s Degree in Financial Risk Management and have a Bachelor’s Degree in International Finance. I am passionate about financial analysis and risk management and am now seeking a position in this area.
 
+Educations
+------
+
+### University of Connecticut-Stamford
+
+*Master's degree, Financial Mathematics, 2015 – 2016
+*Main Courses: Financial Institutions, Financial Risk Modeling, Introduction to US Capital Markets, Equity, Fixed income
+*Activities and Societies: FMC
+
+### Tianjin University of Finance and Economics
+*Bachelor's degree, International Finance, 2011 – 2015
+*President of student union
+*Activities and Societies: student union, debate club
+
+
 Key Skills
 ------
 
