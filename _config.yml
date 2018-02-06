@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chao Shang"
+title                    : "Xue Wu (Sherry)"
 title_separator          : "-"
-name                     : &name "Chao Shang"
-description              : &description "Ph.D. student at University of Connecticut "
-url                      : https://chaoshangcs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xue Wu (Sherry)"
+description              : &description "Financial Analyst "
+url                      : https://xuewusherry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chaoshangcs.github.io"
+repository               : "xuewusherry.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chao Shang"
+  name             : "Xue Wu (Sherry)"
   avatar           : "my.jpg"
   bio              : "Ph.D. student at University of Connecticut, expert in Machine Learning"
   location         : "Connecticut"
