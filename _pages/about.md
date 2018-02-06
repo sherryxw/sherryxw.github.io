@@ -8,70 +8,56 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Computer Science and Engineering Department, University of Connecticut. My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in University of Southern California (2014) and Chinese Academic of Science (2015).
+I have completed my Master’s Degree in Financial Risk Management and have a Bachelor’s Degree in International Finance. I am passionate about financial analysis and risk management and am now seeking a position in this area.
 
-My primary research interests are in deep learning, machine learning and pattern recognition using large-scale datasets, with an emphasis on healthcare informatics, online social networks and bioinformatics. 
+### Key Skills
+* A comprehensive knowledge of financial analysis, financial modeling, equity valuation, bonds, futures, forwards, swaps and options
+* I have expertise in VaR, ES, RiskMetrics, GARCH, Monte Carlo simulation, stress testing, PD, LGD and Merton model
+* I have gained experience in analyzing complex data to identify possible risks and provide meaningful insights and recommendations
+* I have conducted detailed analyses of financial positions and compared this against industry benchmarks
+* I am adept at identifying customer needs and making product recommendations based on their requirements and risk tolerance
+* I possess exceptional interpersonal and communications skills and the ability to develop and maintain strong, lasting relationships
+
 
 Experience
 ------
 
-### Research Assistant | University of Connecticut  
-* Designed deep learning, machine learning methods to improve diseases detection, drug discovery & precision medicine. 
-* Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
-* Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
-* Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
-* Constructed the deep neural networks on graphs for node embedding and graph embedding.
+### Financial Analyst
+Family Office
+December 2016 – Present (1 year 3 months)Greater New York City Area
+* This is a full-time job.
+* Focused on Investment, Insurance, Real Estate, Tax disciplines, introduced international clients to a broad range of investment management opportunities in US. Worked closely with senior professionals to provide client service.
+* Conducted complex ﬁnancial analyses on a wide range of investment and ﬁnancial planning topics. Prepared client ﬁnancial statements, tracked investment performance and conducted ﬁnancial analyses and special projects. 
+* Developed key business insights, performed analyst in Industrial Investment, took charge of business planning and marketing research and synthesized ﬁndings to develop concrete recommendations and go-forward plans.
 
-### Co-Investigator | Yale Center for Molecular Discovery, Yale University  
-* Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
-* Extended Recurrent Neural Networks and Autoencoder models for SMILES strings - text sequences, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
-* Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
+### Marketing Analyst
+Taobao Marketplace
+September 2011 – Present (6 years 6 months)
+* This is a part-time job.
+* Thronging data analysis to provide ongoing and ad-hoc analytics to evaluate existing and potential online markets.
+* Using MySQL/Excel to perform complex financial planning and analysis, includes forecasting, annual budgeting, capital planning, to undertake an analysis of the various factors that influence customer decision-making in e-commerce. 
+* Processing customer needs, managing cash and credit card payments accurately and efficiently in a fast-paced retail environment.
 
-### Student Researcher | University of Southern California  
-* Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
-* Implemented script codes to extract the patterns, relevant terms and its associated parameters for Chevron Corporation.
+### Capstone Project Risk Analyst
+CME Group
+May 2016 – December 2016 (8 months)
+* This is my Capstone project sponsored by CME and finished as part of my graduate studies.
+* Analyzed hedging activities of 30 companies mainly in mining industry by using Bloomberg analytic tool, Excel and Eviews.
+* Evaluated whether hedging helps increase the firm’s stock price and its ability of financing.
 
-### Visiting Researcher | Institute of Automation, Chinese Academy of Sciences  
-* Built a high-performance computing platform on GPUs to accelerate deep learning research.
-* Constructed deep learning models to extract image features via open source deep learning framework Caffe.
+### Operation Analyst
+China Minsheng Banking
+January 2014 – February 2014 (2 months)Hangzhou, Zhejiang, China
+* This was an internship and completed as part of my undergraduate studies.
+* Analyzed the bank’s financial situation and compared it against industry benchmarks, evaluating risk and providing insights and recommendations.
+* Provided information to management by assembling and summarizing data; preparing reports; making presentations of findings, analyses, and recommendations.
+* Played a key role in developing a successful marketing strategy to expand the organization’s customer base by collaborating with major securities traders and insurance institutions, resulting in an increase of 150 customers
 
-### Research Assistant | Beijing University of Posts and Telecommunications  
-* Analyzed the limitations of Wireless Sensor Network (WSN), Information Centric Networking (ICN), etc. 
-* Collaborated cross team to design and simulate effective congestion control and scheduling algorithms.
-
-Publications
-------
-
-__Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning__  
-Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi  
-ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 (ACM Journal of IMWUT)
-
-__[VIGAN: Missing View Imputation with Generative Adversarial Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8257992)__  
-Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi  
-IEEE Big Data, 2017 (acceptance rate of 18%)
-
-__[Fusing Location Data for Depression Prediction](https://pdfs.semanticscholar.org/5023/8495b1a704c7c908155dbf66cbe6e5daca8f.pdf)__  
-Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang  
-IEEE Ubiquitous Intelligence & Computing (UIC), 2017
-
-__[Event Extraction from Unstructured Text Data](https://link.springer.com/chapter/10.1007/978-3-319-22849-5_38)__  
-Chao Shang, Anand Panangadan, and Victor K. Prasanna  
-International Conference on Database and Expert Systems Applications (DEXA), 2015
-
-__[A carrier class IoT service architecture integrating IMS with SWE](http://journals.sagepub.com/doi/full/10.1155/2014/930472)__  
-Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang  
-International Journal of Distributed Sensor Networks, 2014
-		
-
-X Machine Learning(XML) Group
-------
-
-[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics.
-
-
-Contact
-------
-
-Email: chao.shang AT uconn.edu  
-Address: 371 Fairfield Way, Unit 4155, Storrs, Conntecticut 06269
-
+### Credit Analyst
+ICBC
+July 2013 – December 2013 (6 months)
+* During this period I worked as an intern for the bank
+* Collaborating with a senior manager, I performed a detailed financial analysis and cost containment exercise to support the bank’s financial planning 
+* Initiated the loan process and established and maintained accurate records within the bank’s database
+* Assessed customers’ risk tolerance and evaluated requirements to recommend relevant financial products
+* Compiled a range of financial documentation, maintained impeccable data records and processed customer feedback
